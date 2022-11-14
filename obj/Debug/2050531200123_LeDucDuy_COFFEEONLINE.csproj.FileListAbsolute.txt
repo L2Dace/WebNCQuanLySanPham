@@ -1,0 +1,2 @@
+D:\TH Web NC\QuanLySanPhamTHTKW\obj\Debug\2050531200123_LeDucDuy_COFFEEONLINE.csproj.AssemblyReference.cache
+D:\TH Web NC\QuanLySanPhamTHTKW\obj\Debug\2050531200123_LeDucDuy_COFFEEONLINE.csproj.CoreCompileInputs.cache
